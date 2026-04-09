@@ -1,7 +1,7 @@
 # 🛡️ Network Intrusion Detection System (NIDS) — Colab + GitHub
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/nids-ml/blob/main/notebooks/NIDS_Full_Pipeline.ipynb)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/YOUR_USERNAME/nids-ml)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bennythomas333/final-year-project-/blob/main/notebooks/NIDS_Full_Pipeline.ipynb)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/Bennythomas333/final-year-project-)
 
 > Train, evaluate, and demo an ML-based Network Intrusion Detection System — entirely in Google Colab. No local setup required.
 
