@@ -1,0 +1,12 @@
+# These are pre-installed in Colab — listed for reference
+# pip install -r requirements_colab.txt   (only needed locally)
+numpy
+pandas
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn
+matplotlib
+seaborn
+joblib
+tqdm
