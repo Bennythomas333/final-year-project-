@@ -1,6 +1,6 @@
   🛡️Network Intrusion Detection System (NIDS) using Machine Learning
 
-...A machine-learning-based NIDS that detects network intrusions using an ensemble of Random Forest, XGBoost, and LightGBM, combined through soft-voting. Built as a final-year capstone project at Jain (Deemed-to-be) University, Bangalore.
+...A machine-learning-based NIDS that detects network intrusions using an ensemble of Random Forest, XGBoost, and LightGBM, combined through soft-voting. 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bennythomas333/final-year-project-/blob/main/notebooks/NIDS_Full_Pipeline.ipynb)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/Bennythomas333/final-year-project-)
@@ -105,15 +105,6 @@ A static HTML dashboard is hosted via GitHub Pages at:
 ```
 https://Bennythomas333.github.io/final-year-project-/dashboard/index.html
 ```
-
----
-
-## 👨‍💻 Author
-
-**Bennythomas**  
-B.E. Computer Science & Engineering  
-Jain (Deemed-to-be) University, Bangalore  
-Guide: Dr. Tessy Tom
 
 ---
 
